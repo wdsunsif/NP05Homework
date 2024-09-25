@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugD7Pyz6mj0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faigi\\Desktop\\Clones\\NP05Homework\\NP05HomeworkServer\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faigi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
